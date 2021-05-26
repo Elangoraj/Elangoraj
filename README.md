@@ -30,8 +30,8 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img onclick="#" src="https://github.com/Elangoraj/geticon/tree/master/icons/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Elangoraj/geticon/tree/master/icons/aws.svg" alt="AWS" height="40" style="vertical-align:top; margin:4px">
+<img onclick="#" src="https://github.com/Elangoraj/geticon/icons/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Elangoraj/geticon/icons/aws.svg" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 
  
 
