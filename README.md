@@ -30,8 +30,8 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img onclick="#" src="https://github.com/Elangoraj/geticon/icons/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/Elangoraj/geticon/tree/master/icons/aws.svg" alt="AWS" height="40" style="vertical-align:top; margin:4px">
+<img onclick="#" src="https://github.com/Elangoraj/geticon/blob/master/icons/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Elangoraj/geticon/blob/master/icons/aws.svg" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 
  
 
@@ -39,14 +39,14 @@
 
  
 
- <img src="https://github.com/Elangoraj/geticon/tree/master/icons/docker.svg" alt="docker" height="40" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Elangoraj/geticon/tree/master/icons/nodejs.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
-<!--  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c-plusplus.svg" alt="cpluscplus" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/html-5.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c.svg" alt="c" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mysql.svg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/react.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/airflow.svg" alt="airflow" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Elangoraj/geticon/blob/master/icons/aws-ec2.svg" alt="aws-ec2" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Elangoraj/geticon/blob/master/icons/mysql.svg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Elangoraj/geticon/blob/master/icons/sqlite.svg" alt="sqlite" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Elangoraj/geticon/blob/master/icons/pytorch.svg" alt="pytorch" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/Elangoraj/geticon/blob/master/icons/microsoft-office-excel.svg" alt="microsoft-office-excel" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/r-lang.svg" alt="r-lang" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/spark.svg" alt="spark" height="40" style="vertical-align:top; margin:4px">
+<!--  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/airflow.svg" alt="airflow" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mongodb.svg" alt="mongodb" height="40" style="vertical-align:top; margin:4px"> -->
 </p>
 
@@ -56,7 +56,7 @@
 
  
 
----
+<!-- --- -->
 
  
 
@@ -90,7 +90,7 @@
 
  
 
----
+<!-- --- -->
 
  
 
@@ -126,7 +126,7 @@
 
  
 
----
+<!-- --- -->
 
  
 
