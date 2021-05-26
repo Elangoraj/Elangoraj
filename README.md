@@ -1,4 +1,4 @@
-### Hi there, I'm Ganesh K T [website] 👋
+### Hi there, Elangoraj [website] 👋
 
  
 
@@ -6,10 +6,10 @@
 
  
 
-[![Website](https://img.shields.io/badge/cosmicdepth-coding-orange)](https://dataview-ai.netlify.app/)
-[![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/ganeshkt/)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/ganesh0211)
-![](https://visitor-badge.laobi.icu/badge?page_id=ganesh0211.ganesh0211)
+<!-- [![Website](https://img.shields.io/badge/cosmicdepth-coding-orange)](https://dataview-ai.netlify.app/) -->
+[![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/elangoraj/)
+[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Elangoraj)
+![](https://visitor-badge.laobi.icu/badge?page_id=Elangoraj.Elangoraj)
 
  
 
@@ -18,8 +18,8 @@
  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ganesh0211&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh0211&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elangoraj&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elangoraj&theme=gruvbox)
 
  
 
@@ -166,9 +166,9 @@
 
  
 
-[website]: https://dataview-ai.netlify.app/
-[twitter]: https://twitter.com/ganeshis018
-[youtube]: https://www.youtube.com/channel/UCfvNKCSgWbxvgSBXX1Yvorw?view_as=subscriber
-[instagram]: https://www.instagram.com/ganesh.0211/?hl=en
-[linkedin]: https://www.linkedin.com/in/ganeshkt/
-[gruvbox]: https://github-readme-stats.vercel.app/api?username=ganesh0211&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
+<!-- [website]: https://dataview-ai.netlify.app/ -->
+<!-- [twitter]: https://twitter.com/ganeshis018 -->
+<!-- [youtube]: https://www.youtube.com/channel/UCfvNKCSgWbxvgSBXX1Yvorw?view_as=subscriber -->
+<!-- [instagram]: https://www.instagram.com/ganesh.0211/?hl=en -->
+[linkedin]: https://www.linkedin.com/in/Elangoraj/
+[gruvbox]: https://github-readme-stats.vercel.app/api?username=Elangoraj&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=gruvbox
