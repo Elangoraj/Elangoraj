@@ -167,7 +167,7 @@
  
 
 <!-- [website]: https://dataview-ai.netlify.app/ -->
-[twitter]: https://twitter.com/ElangoRj https://twitter.com/home
+[twitter]: https://twitter.com/ElangoRj
 <!-- [youtube]: https://www.youtube.com/channel/UCfvNKCSgWbxvgSBXX1Yvorw?view_as=subscriber -->
 [instagram]: https://www.instagram.com/elangoraj183/?hl=en
 [linkedin]: https://www.linkedin.com/in/Elangoraj/
