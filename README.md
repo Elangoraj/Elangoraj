@@ -28,10 +28,10 @@
  
 
 
-<!-- ## 🧰 Languages and Tools:
-<p align="center"> -->
-<!-- <img onclick="#" src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/javascript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> -->
+## 🧰 Languages and Tools:
+<p align="center">
+<img onclick="#" src="https://github.com/Elangoraj/geticon/tree/master/icons/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/Elangoraj/geticon/tree/master/icons/aws.svg" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 
  
 
@@ -48,7 +48,7 @@
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/react.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/airflow.svg" alt="airflow" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mongodb.svg" alt="mongodb" height="40" style="vertical-align:top; margin:4px"> -->
-<!-- </p> -->
+</p>
 
  
 
