@@ -1,43 +1,15 @@
 ### Hi there, Elangoraj👋
 
- 
-
- 
-
- 
-
 <!-- [![Website](https://img.shields.io/badge/cosmicdepth-coding-orange)](https://dataview-ai.netlify.app/) -->
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/elangoraj/)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Elangoraj)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Elangoraj.Elangoraj)
 
- 
-
- 
-
- 
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elangoraj&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elangoraj&theme=gruvbox)
 
- 
-
- 
-
- 
-
- 
-
- 
 
 ### Connect with me:
-
- 
-
- 
-
- 
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" background-color="#C52F30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
@@ -45,25 +17,9 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
- 
-
- 
-
- 
 
 <br />
 
- 
-
- 
-
- 
-
-
-## 🧰 Languages and Tools:
-<p align="center">
-<img onclick="#" src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/javascript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 
  
 
@@ -71,7 +27,19 @@
 
  
 
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/docker.svg" alt="docker" height="40" style="vertical-align:top; margin:4px">
+
+<!-- ## 🧰 Languages and Tools:
+<p align="center"> -->
+<!-- <img onclick="#" src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/python.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/javascript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px"> -->
+
+ 
+
+ 
+
+ 
+
+<!--  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/docker.svg" alt="docker" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/nodejs.svg" alt="nodejs" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/c-plusplus.svg" alt="cpluscplus" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/html-5.svg" alt="html" height="40" style="vertical-align:top; margin:4px">
@@ -79,8 +47,8 @@
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mysql.svg" alt="mysql" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/react.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/airflow.svg" alt="airflow" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mongodb.svg" alt="mongodb" height="40" style="vertical-align:top; margin:4px">
-</p>
+ <img src="https://raw.githubusercontent.com/Aarif1430/stack-icons/master/logos/mongodb.svg" alt="mongodb" height="40" style="vertical-align:top; margin:4px"> -->
+<!-- </p> -->
 
  
 
