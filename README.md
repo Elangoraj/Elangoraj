@@ -1,4 +1,4 @@
-### Hi there, Elangoraj👋
+## Hi there, Elangoraj👋
 
 <!-- [![Website](https://img.shields.io/badge/cosmicdepth-coding-orange)](https://dataview-ai.netlify.app/) -->
 [![Twitter Follow](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/elangoraj/)
@@ -8,8 +8,23 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Elangoraj&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elangoraj)
 
+## About me
 
-### Connect with me:
+As a Data Scientist, I actively explore and apply cutting-edge techniques in Generative AI, including Large Language Models, Transformers, and semantic search methods. I work in techniques such as Parametric Efficient Fine Tuning (PEFT), prompt tuning, Reinforcement Learning from human feedback (RLHF), and constitutional AI. I find particular interest in retraining and fine-tuning these extensive models for specific purposes.
+
+Recently, I completed an intensive Technical Team Leadership program at the University of Oxford, augmenting my skills in leadership, people management, and recognizing individual uniqueness.
+
+My experience spans creating machine learning models for skill-job compatibility and pricing, developing state-of-the-art product recommendation systems using Deep Neural Networks, implementing semantic search capabilities, conducting LSTM-based sentiment analysis, and analyzing time series data. Proficient in the entire data science lifecycle, I excel in Feature Engineering, Data Integration, Model Building, Hyperparameter Tuning, ensuring data security, creating interactive dashboards, A/B Testing, and handling Big Data Processing.
+
+I hold a Master's degree in Artificial Intelligence from the University of Exeter. My educational background provides me with a solid foundation in mathematics and programming. I have extensive experience with a wide range of tools and languages, including SQL, Python, Redshift, SparkSQL, Pentaho, Looker, Docker, Tableau, PowerBI, as well as various cloud service providers such as AWS, GCP, and Snowflake.
+
+I'm passionate about knowledge sharing and mentoring emerging data scientists and analysts. I actively lead sessions on statistics, analytics, and Python for machine learning. My dedication to ongoing learning is underscored by my pursuit of certifications, including those in analytics and deep learning.
+
+My journey as a data scientist has been defined by a thirst for innovation and a dedication to transforming data into actionable insights. I look forward to new challenges and opportunities in this ever-evolving field.
+
+#### Publications: "Remote Sensing Single Image Super-Resolution Benchmarking with Transfer Learning Algorithms," 2023, Publisher: IEEE, Co-Author: Saptarshi Das.
+
+## Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 <!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" background-color="#C52F30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
